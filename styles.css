@@ -1,0 +1,45 @@
+#banner {
+ 	overflow: hidden;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	margin-top: -8px;
+	margin-left:-8px;
+}
+#banner h1 {
+	color: #e8ebea;
+	top: 35px;
+	left: 755px;
+	position: fixed;
+	z-index: 0;
+	font-size: 65px;
+}
+
+#container {
+	width: 900px;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #e8ebea;
+	position: relative;	
+	padding-top: 280px;
+}
+
+#inner div h3 {
+	padding-left: 20px;
+}
+
+#inner p {
+	padding-left: 50px;
+}
+
+.indent {
+	padding-left: 20px;
+}
+
+#inner p div {
+	padding-left: 120px;
+}
+
+body {
+	background-color: darkgray;
+}
